@@ -1,4 +1,4 @@
-# House-Prediction-Deep-Learning-Model
+# House Prediction Deep Learning Model
 ## Introduction
 The Objective of this project is to use linear regression to find the median value of owner-occupied homes in 1000 USD's. A machine learning model is built using. tensorflow.keras API.
 
