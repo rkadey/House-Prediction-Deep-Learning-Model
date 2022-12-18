@@ -98,3 +98,6 @@ Making a prediction is the final step in the life-cycle. It is why we wanted the
 It requires you have new data for which a prediction is required, e.g. where you do not have the target values.
 
 From an API perspective, you simply call a function to make a prediction of a class label, probability, or numerical value: whatever you designed your model to predict.
+
+## Authors
+- [Richard Kadey](https://linktr.ee/rkadey)
